@@ -37,3 +37,8 @@ but it should also work with the USB version by changing the serial port to
 
 q: So what exactly is here?
 a: Please see http://www.rfidiot.org/documentation.html
+
+------
+
+For now only readmifareultra.py and the content under rfidiot directory have been
+converted to python3.7
